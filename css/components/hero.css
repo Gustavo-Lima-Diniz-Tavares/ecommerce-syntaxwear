@@ -3,6 +3,7 @@
     background-size: cover;
     height: 500px;
     position: relative;
+    border-radius: 20px;
 }
 
 .hero-overlay{
@@ -15,7 +16,7 @@
 }
 
 .hero-content{
-    color: #ffffff;
+    color: #EDEDED;
     max-width: 360px;
     text-align: center;
 }
